@@ -15,4 +15,9 @@ public class Calendar {
 	{
 		System.out.println("--modify todo--");
 	}
+	@Test(groups = "regression")
+	public void delete()
+	{
+		System.out.println("--delete--");
+	}
 }
