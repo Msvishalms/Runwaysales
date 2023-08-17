@@ -8,4 +8,9 @@ public class Vishal {
 	{
 		System.out.println("lead is working");
 		}
+	@Test
+	public void lead1()
+	{
+		System.out.println("lead is runnning");
+		}
 }
