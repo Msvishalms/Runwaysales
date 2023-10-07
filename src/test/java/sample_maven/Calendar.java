@@ -20,4 +20,9 @@ public class Calendar {
 	{
 		System.out.println("--delete--");
 	}
+	@Test(groups = "regression")
+	public void delee()
+	{
+		System.out.println("--delete--");
+	}
 }
